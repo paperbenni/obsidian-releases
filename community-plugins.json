@@ -11625,5 +11625,12 @@
         "author": "Akop Kesheshyan",
         "description": "Create a literature notes from a BibTeX entries.",
         "repo": "akopdev/obsidian-bibtex-manager"
+    },
+    {
+        "id": "obsidian-zenmode",
+        "name": "Zenmode",
+        "author": "paperbenni",
+        "description": "Hide UI most UI elements",
+        "repo": "paperbenni/obsidian-zenmode"
     }
 ]
